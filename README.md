@@ -8,3 +8,6 @@
 目录：
 - `raw`目录：原始标题数据
 - `dict`目录：上述标题经过繁简统一、去重合并、分类（仅词条，无拼音）。
+
+相关：
+- https://github.com/outloudvi/mw2fcitx

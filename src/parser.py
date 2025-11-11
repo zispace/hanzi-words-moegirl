@@ -4,7 +4,6 @@ import re
 import unicodedata
 from pathlib import Path
 
-import opencc
 import pandas as pd
 from opencc import OpenCC
 
@@ -1904,10 +1903,9 @@ def convert_zh(converter: OpenCC, word: str) -> str:
 
 def filter_words(converter: OpenCC, words: list[str]) -> list[str]:
     """繁体转为简体并过滤重复词语，最后按长度排序"""
-    word_set = set(words)
     word_out = set()
     trans = str.maketrans(ZH_CHARS)
-    for w in word_set:
+    for w in words:
         w1 = w.translate(trans)
         w2 = convert_zh(converter, w1)
         if w2.lower() in word_out:
@@ -1915,6 +1913,7 @@ def filter_words(converter: OpenCC, words: list[str]) -> list[str]:
         word_out.add(w2)
 
     word_list = sorted(word_out, key=lambda x: (len(x), x.lower()))
+
     return word_list
 
 
@@ -2022,8 +2021,9 @@ def format_texts(data_dir: str | Path, save_dir: str | Path, lines: int) -> None
                         unk_word.append(out)
 
     logging.info("初始化 opencc")
-    converter = opencc.OpenCC("t2s.json")
+    converter = OpenCC("t2s.json")
 
+    Path(save_dir).mkdir(parents=True, exist_ok=True)
     save_data = [zh_word, zh_word_more, zh_word_extra]
     for words, keyword in zip(save_data, CATE_NAMES):
         save_path = Path(save_dir, keyword + ".txt")

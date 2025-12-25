@@ -1869,6 +1869,7 @@ Build 新世界 假面骑士Grease
 Burn My Dread -PERSONA3 轮回转生-
 Burning Desires 绝望吧台
 Bushiroad 15周年纪念演唱会 in 西武巨蛋
+Bushiroad·Bushimo Game综合
 Butterfly(宝石幻想光芒重现)
 Butterfly(少女歌剧)
 Bye Baby 再见
@@ -8175,6 +8176,7 @@ quest任务
 三国杀:公孙渊
 三国杀:公孙瓒
 三国杀:公孙范
+三国杀:六龙骖驾
 三国杀:关兴
 三国杀:关兴张苞
 三国杀:关宁

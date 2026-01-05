@@ -70,6 +70,8 @@
 1.9版本后的科技树
 100%?没有没有没有
 100%中学生
+100%完全子会社
+100%完全子公司
 100%的草莓
 100%社交失败者
 100%鲜橙汁
@@ -729,6 +731,7 @@
 2025年布达佩斯StarLadder反恐精英锦标赛
 2025年异世界庆典
 2025年异世界音乐节
+2025年德玛西亚杯
 2025年投稿
 2025年游戏列表
 2025年王者荣耀世界杯
@@ -763,6 +766,7 @@
 2025虚拟歌手贺岁纪
 2025赛季
 2025首尔
+2026年BLAST Premier春季赛赏金赛
 2026年游戏列表
 2026电竞世界杯
 2077日本锁国
@@ -1439,6 +1443,7 @@ Anime Trending动画奖
 Ankh(迷失)
 Ankh永生计划
 Anna(史诗幻想战争)
+Anniversary(闪耀色彩)
 Another Heaven(命运石之门)
 Another World(A应P)
 Another World(异世界女团)
@@ -1830,6 +1835,7 @@ Bonsoir几原
 Borderland(军火女王)
 Boss(游戏)
 Boundary(动画公司)
+Boundary(狮白牡丹)
 Bouquet(专辑)
 Boy Meets Girl(叙事模板)
 Boy Meets Girl(漫画)
@@ -3236,6 +3242,7 @@ Gravity(交错的想念)
 Gravity(埃莉丝)
 Gravity(幸运星)
 Gravity(樱花任务)
+Gray(刀剑乱舞音乐剧)
 Gray(杀戮的天使)
 Gray(灵能百分百)
 Great魔法大作战
@@ -3929,6 +3936,7 @@ Kozmo-尾声
 Kozmo-翠玉都
 Ko·ko·ko·沟通是个问题~拜托了!神明大人!~
 Kraken(战斗翔鹰)
+Kuna!伊赞之土!
 Kururu曹长
 Ku形跳跃
 K·K(血族手游)
@@ -4040,6 +4048,8 @@ Letzel的骑士
 Leviathan(10日P)
 Leviathan(战斗翔鹰)
 Liar·Liar 谎言游戏
+Libra(JUSF周存)
+Libra(海底囚人)
 Lie Ren复仇之战
 Liella!之歌
 Liella!之歌2
@@ -4165,6 +4175,8 @@ LoveLive!学园偶像音乐剧 the DRAMA
 LoveLive!拜年纪
 LoveLive!新春会
 LoveLive!系列
+LoveLive!系列15周年纪念 15 Short Radio
+LoveLive!系列15周年纪念“15 Short Radio”
 LoveLive!系列的ALL NIGHT NIPPON GOLD
 LoveLive!系列的All Night Nippon GOLD
 LoveLive!莲之空女学院学园偶像俱乐部
@@ -4414,6 +4426,8 @@ Mayday(咏月)
 Maze Town(单曲)
 Me You~老师我爱你~
 MediaWorks文库
+Medic(假面骑士Drive)
+Medic(明日方舟)
 MegaMari 魔理沙的野望
 Mega子
 Mei(崩坏系列)
@@ -4584,6 +4598,7 @@ MyGO!!!!! 6th LIVE 寻觅到的风景 携手同行
 MyGO!!!!! 6th LIVE“寻觅到的风景,携手同行”
 MyGO!!!!! 7th LIVE 就算没有任何答案
 MyGO!!!!! 7th LIVE“就算没有任何答案”
+MyGO!!!!! 8th LIVE 当思念的形状堆砌之时
 MyGO!!!!! ZEPP TOUR 2024 徘徊的渴望
 MyGO!!!!! ZEPP TOUR 2025 沿着心灵之缘
 MyGO!!!!! ZEPP TOUR 2025 追寻内心的边缘
@@ -5275,6 +5290,7 @@ Oo的时候,没有一个oo是无辜的
 Oo的时候,没有一个xx是无辜的
 Oo的暴露了
 Oo的末日到了
+Oo的梦该醒了
 Oo的狗
 Oo的笑容由我来守护
 Oo的自我修养
@@ -5288,6 +5304,7 @@ Oo看了直呼内行
 Oo真是天使
 Oo眼中的xx
 Oo碳
+Oo神曲
 Oo祭
 Oo穷三代xx毁一生
 Oo竟在我身边
@@ -5569,6 +5586,7 @@ Peko语
 Pepon星
 Perfect Day(洛天依)
 Perfect World(偶像梦幻祭舞台剧)
+Period(椎乃味醂)
 Perl娘
 Perpetual wishes 守护永恒的爱
 Perpetual wishes~守护永恒的爱
@@ -5796,6 +5814,8 @@ QQ工具栏娘
 QQ群娘
 QQ音速
 QQ飞行岛
+QQ飞车
+QQ飞车手游
 QUALIA ~约定的轨迹~
 QUEEN(恶魔之谜)
 QUEEN(恶魔之谜歌曲)
@@ -6086,6 +6106,7 @@ Rosa(死亡微笑)
 Roselia 16th 17th Single 购买者限定抽选式FREE LIVE Stolz
 Roselia 1st Live Rosenlied追加公演
 Roselia ASIA TOUR 新世界航路
+Roselia单独Live Episode of Roselia
 Roselia的RADIO SHOUT!
 Roselia翻唱歌曲
 Roselia翻唱歌曲2
@@ -6534,6 +6555,7 @@ Smile(游戏品牌)
 Smile(花舞少女)
 Smile(言语如苏打般涌现)
 Smile光之美少女!
+Smile同盟
 Smile方程式
 Smoke(宫下游)
 Smoke(彩虹六号)
@@ -6875,6 +6897,7 @@ Thank you, FRIENDS!!(单曲)
 That Is How I Roll!(单曲)
 The 1st Movement 为未来响彻的二重奏
 The Brave(勇者闯魔城)
+The Brave(破碎)
 The End骑士
 The Formula(假面骑士Gavv)
 The Grimoire of Usami 秘封俱乐部异界摄影记录
@@ -7788,6 +7811,7 @@ quest任务
 “山中老人”
 “山中老人”(Fate)
 “巨大的丑东西”
+“引梦人”
 “微光”计划
 “心理学家”
 “感谢”的经验值
@@ -8799,6 +8823,7 @@ quest任务
 三国杀:胡车儿
 三国杀:胡遵
 三国杀:胡金定
+三国杀:臧洪
 三国杀:臧霸
 三国杀:芮姬
 三国杀:花
@@ -8814,6 +8839,7 @@ quest任务
 三国杀:荀淑
 三国杀:荀爽
 三国杀:荀粲
+三国杀:荀莳
 三国杀:荀谌
 三国杀:荀采
 三国杀:草木皆兵
@@ -9522,10 +9548,12 @@ quest任务
 世界计划创作者祭2024
 世界计划创作者祭2025
 世界计划周年庆展览会2021
+世界计划我的世界原声带 Vol.1
 世界计划游戏原声带 Vol.1
 世界计划游戏原声带 Vol.2
 世界计划游戏原声带 Vol.3
 世界计划游戏原声带 Vol.4
+世界计划游戏原声带 Vol.5
 世界顶尖的暗杀者,转生为异世界贵族
 世纪帝国2
 世纪帝国II
@@ -9600,6 +9628,7 @@ quest任务
 东京放课后召唤师:伊修巴兰奎
 东京放课后召唤师:伊夫利特
 东京放课后召唤师:伊察姆纳
+东京放课后召唤师:伊戈隆纳克
 东京放课后召唤师:伊斯拉斐尔
 东京放课后召唤师:伏羲
 东京放课后召唤师:优马
@@ -9705,6 +9734,7 @@ quest任务
 东京放课后召唤师:普罗米修斯
 东京放课后召唤师:月读
 东京放课后召唤师:本住
+东京放课后召唤师:札格纳特
 东京放课后召唤师:李征
 东京放课后召唤师:杜尔迦
 东京放课后召唤师:杰得
@@ -10967,6 +10997,7 @@ quest任务
 伊祖米克,生态泉源
 伊索尔Sol
 伊索尔德(拳皇)
+伊索尔德(重返未来:1999)
 伊织(FLIP*FLOP)
 伊织(大番长)
 伊织(废墟图书馆)
@@ -11613,6 +11644,7 @@ quest任务
 信 给十五岁的你
 信(乐正绫)
 信(卡拉彼丘)
+信(小柔)
 信(彩木雅夫)
 信(物件)
 信(赤羽)
@@ -12418,6 +12450,7 @@ quest任务
 元气骑士:特种骑士部队
 元气骑士:狂战士
 元气骑士:狼人
+元气骑士:皮套王子
 元气骑士:矿工
 元气骑士:精灵
 元气骑士:警官
@@ -12505,6 +12538,7 @@ quest任务
 先驱者 MK.IV
 先驱者(歌曲)
 先驱者(用语)
+先驱者(重返未来:1999)
 光 深呼吸 未来
 光(A3!舞台剧歌曲)
 光(Arcaea)
@@ -13691,6 +13725,7 @@ quest任务
 刀剑乱舞:太鼓钟贞宗
 刀剑乱舞:姬鹤一文字
 刀剑乱舞:孙六兼元
+刀剑乱舞:安宅切
 刀剑乱舞:宗三左文字
 刀剑乱舞:实休光忠
 刀剑乱舞:审神者
@@ -14054,6 +14089,7 @@ quest任务
 别离开我 You are my love
 别管我。
 别西卜(Helltaker)
+别西卜(圣斗士星矢)
 别西卜(极恶老大)
 别西卜(狩猎史莱姆300年)
 别西卜(魔王崇拜计划)
@@ -14659,6 +14695,7 @@ quest任务
 千变万花 妄想崇拜
 千夏(军火女王)
 千夏(我们大家的河合庄)
+千夏(绝区零)
 千夏(虚拟UP主)
 千夏official
 千夜(姐姐)
@@ -16017,6 +16054,7 @@ quest任务
 呐喊(火影忍者)
 呐喊(绘画作品)
 呓语 其二
+呕吐物胡萝卜REMAKE
 呗音Oto
 呗音Uta
 呜呼 宛如绚烂的泡沫
@@ -18492,6 +18530,8 @@ quest任务
 周刊虚拟歌手中文曲排行榜693
 周刊虚拟歌手中文曲排行榜694
 周刊虚拟歌手中文曲排行榜696
+周刊虚拟歌手中文曲排行榜699
+周刊虚拟歌手中文曲排行榜700
 周刊虚拟歌手外语排行榜1
 周刊虚拟歌手外语排行榜10
 周刊虚拟歌手外语排行榜11
@@ -18765,6 +18805,7 @@ quest任务
 哆啦A梦 大雄的月球探险记
 哆啦A梦 大雄的猫狗时空传
 哆啦A梦 大雄的秘密道具博物馆
+哆啦A梦 大雄的绘世界物语
 哆啦A梦 大雄的金银岛
 哆啦A梦 月球探险记
 哆啦A梦(1979年电视动画)
@@ -20045,6 +20086,7 @@ quest任务
 声优Award
 声音(Harry)
 声音的LOOP
+声音的碎片(MIMI)
 壳(BORUTO)
 壳(otetsu)
 壳(墨梓)
@@ -20450,6 +20492,7 @@ quest任务
 大逆转裁判2:成步堂龙之介的觉悟
 大逆转裁判:成步堂龙之介的冒险
 大邪神 雷瑟夫
+大都会(DC漫画)
 大都会(水晶之王)
 大野木‘三代目土影’
 大野木‘忍界大战’
@@ -20820,6 +20863,7 @@ quest任务
 奏(歌曲)
 奏(陆战型纸板箱)
 奏响 春日
+奏响吧!点唱机
 奏响吧音乐!!!
 奏明天空 再生
 奏鸣曲(takamatt)
@@ -20866,6 +20910,7 @@ quest任务
 奥尔加的公主连结Re:Dive
 奥尔卡(地下城与勇士)
 奥尔卡(坎公骑冠剑)
+奥尔森王国史 ~野蛮的兽人之国如何烧毁和平的精灵之国~
 奥巴马七龙珠Z
 奥德修斯(Fate)
 奥德修斯·eu·布里塔尼亚
@@ -21636,6 +21681,7 @@ quest任务
 嫉妒心(歌曲)
 嫣然Laurel
 嫦娥(东方Project)
+嫦娥(原型)
 嫦娥(神话人物)
 嫦娥(阎王不高兴)
 嬴政(奥奇传说)
@@ -23302,6 +23348,7 @@ quest任务
 少女歌剧 Revue Starlight ORCHESTRA LIVE -Starry Konzert-
 少女歌剧 Revue Starlight RONDO·RONDO·RONDO
 少女歌剧 Revue Starlight Rondo Rondo Rondo
+少女歌剧 Revue Starlight SPECIAL LIVE "Starry Horizon"
 少女歌剧 Revue Starlight presents All Star Radio
 少女歌剧 Revue Starlight presents ~西克菲尔特中等部放送局~
 少女歌剧 Revue Starlight 圣翔音乐学园 放送局
@@ -23800,6 +23847,7 @@ quest任务
 市民医院(红色警戒2)
 布丁(明日方舟)
 布丁(食品)
+布丁(食物)
 布丁安乐圣诞节!
 布丽吉特(轨迹)
 布丽吉特(轨迹系列)
@@ -24873,6 +24921,7 @@ quest任务
 彩虹小马:友谊是魔法
 彭忒西勒亚(Fate)
 影 流 之 主
+影(影之传说)
 影(街头霸王)
 影之传说2
 影之诗:超凡世界
@@ -30036,6 +30085,7 @@ quest任务
 普通回想151-160
 普通回想161-170
 普通回想171-180
+普通回想181-190
 普通回想21-30
 普通回想31-40
 普通回想41-50
